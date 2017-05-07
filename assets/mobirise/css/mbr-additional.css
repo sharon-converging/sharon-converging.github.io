@@ -617,6 +617,7 @@ h6,
 }
 
 
+
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -697,9 +698,13 @@ h6,
 #contacts2-1b B {
   color: #7c7c7c;
   font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
 }
 #contacts2-1b UL {
   color: #efefef;
+}
+#contacts2-1b P {
+  font-family: 'Raleway', sans-serif;
 }
 #form1-18 .form-control-label {
   color: #232323;

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "tpf_services.html",
+    "currentPage": "tpf_home.html",
     "name": "Torgerson Print Finishing",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
     "tpf_services.html": {
       "settings": {
         "title": "TPF SERVICES",
-        "meta_descr": "",
+        "meta_descr": "From simple perfing, scoring and foil stamping to complex multiple up internal stripping, Torgerson Print Finishing has the expertise and knowledge to fulfill all of your print finishing needs.",
         "order": 4
       },
       "components": [
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tpf_home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORGERSON <br>PRINT FINISHING</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -904,7 +904,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>2601 Fairview Ave N<br>Roseville, MN 55113<br><br>",
+          "text1": "<strong>Address</strong><br>Torgerson Print Finishing<br>105 Old Hwy 8 SW<br>New Brighton, MN 55113<br><br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@go-tpf.com<br>\nPhone: &nbsp;651-631-3264<br>\nFax: 651-638-0782",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"tpf_about.html\">ABOUT</a><br>\n<a href=\"tpf_services.html\">SERVICES</a><br>\n<a href=\"contactus.html\">CONTACT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
@@ -930,7 +930,7 @@
     "tpf_about.html": {
       "settings": {
         "title": "ABOUT TPF",
-        "meta_descr": "",
+        "meta_descr": "Torgerson Print Finishing is a commercial printer's best ally when it comes to finishing your print projects on budget and on time.\nFrom start to finish, our knowledgeable and dedicated staff makes your printing job their own. With Torgerson Print Finishing's passion for quality on your side, you can't fail to meet your customers' needs.",
         "order": 2
       },
       "components": [
@@ -971,7 +971,7 @@
             "showText": true,
             "showButton": true
           },
-          "title": "<br>ABOUT TPF<br><br>",
+          "title": "<br>ABOUT TPF<br>",
           "text": "<p>Torgerson Print Finishing is a commercial printer's best ally when it comes to finishing your print projects on budget and on time.</p><p>From start to finish, our knowledgeable and dedicated staff makes your printing job their own. With Torgerson Print Finishing's passion for quality on your side, you can't fail to meet your customers' needs.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tpf_contactus.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A BID</a>"
         },
@@ -1049,7 +1049,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x12826.png",
+              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x12844.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1063,7 +1063,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tpf_home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORGERSON <br>PRINT FINISHING</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1175,7 +1175,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>2601 Fairview Ave N<br>Roseville, MN 55113<br><br>",
+          "text1": "<strong>Address</strong><br>Torgerson Print Finishing<br>105 Old Hwy 8 SW<br>New Brighton, MN 55113<br><br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@go-tpf.com<br>\nPhone: &nbsp;651-631-3264<br>\nFax: 651-638-0782",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"tpf_about.html\">ABOUT</a><br>\n<a href=\"tpf_services.html\">SERVICES</a><br>\n<a href=\"contactus.html\">CONTACT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         },
@@ -1201,7 +1201,7 @@
     "tpf_contactus.html": {
       "settings": {
         "title": "CONTACT US",
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "Torgerson Print Finishing is a commercial printer's best ally when it comes to finishing your print projects on-budget and on-time. From small to large runs, TPF has the expertise to fulfill all your print finishing needs. ",
         "order": 5
       },
       "components": [
@@ -1279,10 +1279,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x12826.png",
+              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "tpf_home.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1293,7 +1293,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tpf_home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORGERSON <br>PRINT FINISHING</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1371,21 +1371,27 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "Torgerson Print Finishing\n105 Old Hwy 8 SW\nNew Brighton, MN 55113",
+              "placeId": "ChIJ5URhUPArs1IRByZb2PYssgA",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Contact Us&nbsp;</strong><br><b>Ann Nedry<br></b>ann@go-tpf.com<br><br><b>Thor Pearson</b><br>thor@go-tpf.com<br><br><br><b>Address</b><br>2601 Fairview Ave N<br>Roseville, MN 55113<br>",
+          "text1": "<strong>Contact Us&nbsp;</strong><br><b>Ann Nedry&nbsp;</b><br>ann@go-tpf.com<br><br><b>Thor Pearson</b><br>thor@go-tpf.com<br><br><br><b>Address</b><br>Torgerson Print Finishing<br>105 Old Hwy 8 SW<br>New Brighton, MN 55113<br>",
           "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Email &nbsp; | &nbsp; Phone &nbsp;| &nbsp;Fax</b></span></font></p><ul><li>info@go-tpf.com</li><li>phone: 651-631-3264</li><li>fax: 651-638-0782</li></ul>",
           "_styles": {
             "B": {
               "color": "#7c7c7c",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
             },
             "UL": {
               "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },
@@ -1489,7 +1495,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>2601 Fairview Ave N<br>Roseville, MN 55113<br><br>",
+          "text1": "<strong>Address</strong><br>Torgerson Print Finishing<br>105 Old Hwy 8 SW<br>New Brighton, MN 55113<br><br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@go-tpf.com<br>\nPhone: &nbsp;651-631-3264<br>\nFax: 651-638-0782",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"tpf_about.html\">ABOUT</a><br>\n<a href=\"tpf_services.html\">SERVICES</a><br>\n<a href=\"contactus.html\">CONTACT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
@@ -1594,7 +1600,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tpf_home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORGERSON <br>PRINT FINISHING</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -2116,7 +2122,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x133327.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x133345.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2173,7 +2179,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>2601 Fairview Ave N<br>Roseville, MN 55113<br><br>",
+          "text1": "<strong>Address</strong><br>Torgerson Print Finishing<br>105 Old Hwy 8 SW<br>New Brighton, MN 55113<br><br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@go-tpf.com<br>\nPhone: &nbsp;651-631-3264<br>\nFax: 651-638-0782",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"tpf_about.html\">ABOUT</a><br>\n<a href=\"tpf_services.html\">SERVICES</a><br>\n<a href=\"contactus.html\">CONTACT US</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
