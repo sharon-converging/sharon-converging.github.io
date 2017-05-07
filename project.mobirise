@@ -1049,7 +1049,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x12824.png",
+              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x12826.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1279,7 +1279,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x12824.png",
+              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x12826.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2116,7 +2116,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x133325.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x133327.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
