@@ -25,7 +25,9 @@
     "uniqCompNum": 48,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "tpf_services.html": {
@@ -452,6 +454,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "46px"
+            }
+          },
           "_anchor": "msg-box5-y",
           "_params": {
             "imageSize": 50,
@@ -498,12 +505,7 @@
           },
           "title": "Die Cutting and Kiss Cutting",
           "text": "Have a unique project in mind with a vision of how it should look and feel? Great! Our custom cutting services will reflect the quality and craftsmanship you expect.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tpf_contactus.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A BID</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "46px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tpf_contactus.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A BID</a>"
         },
         {
           "_tags": [
@@ -1049,7 +1051,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x12850.png",
+              "src": "@PROJECT_PATH@/assets/images/tpf-icon-244x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1119,6 +1121,9 @@
             "count": 3,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -1128,10 +1133,7 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "WHAT OUR CUSTOMERS SAY",
           "subtitle": "Testimonials provided by a few long-time customers that come back to TPF over and over again. "
@@ -1358,6 +1360,21 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "B": {
+              "color": "#7c7c7c",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
+            },
+            "UL": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_anchor": "contacts2-1b",
           "_params": {
             "paddingTop": 3,
@@ -1378,28 +1395,22 @@
             }
           },
           "text1": "<strong>Contact Us&nbsp;</strong><br><b>Ann Nedry&nbsp;</b><br>ann@go-tpf.com<br><br><b>Thor Pearson</b><br>thor@go-tpf.com<br><br><br><b>Address</b><br>Torgerson Print Finishing<br>105 Old Hwy 8 SW<br>New Brighton, MN 55113<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Email &nbsp; | &nbsp; Phone &nbsp;| &nbsp;Fax</b></span></font></p><ul><li>info@go-tpf.com</li><li>phone: 651-631-3264</li><li>fax: 651-638-0782</li></ul>",
-          "_styles": {
-            "B": {
-              "color": "#7c7c7c",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "16px"
-            },
-            "UL": {
-              "color": "#efefef"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Email &nbsp; | &nbsp; Phone &nbsp;| &nbsp;Fax</b></span></font></p><ul><li>info@go-tpf.com</li><li>phone: 651-631-3264</li><li>fax: 651-638-0782</li></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_anchor": "form1-18",
           "_params": {
             "labelsColor": "#232323",
@@ -1445,16 +1456,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -1600,7 +1602,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tpf_home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TORGERSON <br>PRINT FINISHING</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"tpf_services.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html\">OUR SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-y\">Die Cutting &amp; Kiss Cutting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-z\">Scoring &amp; Perfing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-14\">Embossing &amp; Debossing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-11\">Foil Stamping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-15\">Numbering<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-13\">Imprinting<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tpf_services.html#msg-box5-16\">Folding &amp; Gluing<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tpf_contactus.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -2026,6 +2028,13 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".card-block P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#232323"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>“Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, ...”&nbsp;</p><p><b style=\"font-size: 1.125rem; line-height: 2; font-style: normal;\"><a href=\"tpf_about.html\">READ MORE</a></b></p>",
@@ -2090,14 +2099,7 @@
             "showSubtitle": true
           },
           "title": "WHAT OUR CUSTOMERS SAY",
-          "subtitle": "Testimonials provided by a few long-time customers that come back to TPF over and over again.&nbsp;",
-          "_styles": {
-            ".card-block P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#232323"
-            }
-          }
+          "subtitle": "Testimonials provided by a few long-time customers that come back to TPF over and over again.&nbsp;"
         },
         {
           "_inherit": "msg-box8",
@@ -2122,7 +2124,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x133351.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
